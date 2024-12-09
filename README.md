@@ -1,3 +1,20 @@
+### A College Assignment
+### Submitted as part of my L4 Software Development Apprenticeship
+### Module Name: Advanced Programming
+### December 2023.
+---
+The assignment criteria was as follows:
+Part A - a portfolio of algorithms, data structures and design patterns.
+
+- Collate a repository containing examples of design patterns, algorithms & data structures.
+- This is expected to be a private Github repository containing the code as individual files and one main markdown document.
+- The markdown document should be professionally formatted and include descriptions of the code, along with code-blocks, images and diagrams to support your descriptions.
+
+- At least six examples, with each example shown in at least two different programming languages, with one of those languages not used by you at college before. - Must have excellent level of technical and aesthetic design as well as details on implementation and use. 
+- Provide excellent levels of technical detail and an exceptional portfolio will additionally include pros and cons of the specific implementations chosen.
+- Implementation means examples of how & where the algorithm/design pattern/data structure is used.
+
+---
 # Advanced Programming Part A
 
 *Algorithms*
